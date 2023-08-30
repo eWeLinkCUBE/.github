@@ -9,7 +9,7 @@ A home automation platform that integrates with various smart home devices and p
 ● Voice assistant integration (Google Assistant, Amazon Alexa via third-party add-ons).</br>
 ● Active community providing add-ons, documentation etc.
 ## Documentation
-● Open API documentation - Examples, detailed codes.</br>
-● Community forum - Discussions, troubleshooting, announcements.</br>
-● Blog - News, updates, tutorials.</br>
+● [Open API documentation](https://ewelink.cc/ewelink-cube/introduce-open-api/) - Examples, detailed codes.</br>
+● [Community forum](https://forum.ewelink.cc/c/ewelink-cube-developer/24) - Discussions, troubleshooting, announcements.</br>
+● [Blog](https://ewelink.cc/blog/) - News, updates, tutorials.</br>
 #### Get started with eWeLink CUBE today and take control of your smart home!
