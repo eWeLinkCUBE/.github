@@ -2,7 +2,7 @@
 A home automation platform that integrates with various smart home devices, services and platforms. It allows you to monitor and control connected devices & services from a single platform and automate routines for home control and convenience.
 ## Overview
 ● Software that powers up hardware to be your local smart home hub, like SONOFF iHost. </br>
-● Supports over 100 devices and various protocols including Zigbee, WiFi, Matter.</br>
+● Supports hundreds of device types covering Zigbee, WiFi, and Matter.</br>
 ● Easy to set up and configure through web-based UI.</br>
 ● Built-in rules engine to create automations and schedules.</br>
 ● Remote access capability (via third-party add-on like Tailscale).</br>
