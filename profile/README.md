@@ -1,12 +1,12 @@
 ## The heart of your local smart home
 A home automation platform that integrates with various smart home devices, services and platforms. It allows you to monitor and control connected devices & services from a single platform and automate routines for home control and convenience.
 ## Overview
-● Software running on hardware like SONOFF iHost. </br>
-● Supports over 100 devices and platforms including Zigbee, WiFi, Matter.</br>
+● Software that powers up hardware to be your local smart home hub, like SONOFF iHost. </br>
+● Supports over 100 devices and various protocols including Zigbee, WiFi, Matter.</br>
 ● Easy to set up and configure through web-based UI.</br>
 ● Built-in rules engine to create automations and schedules.</br>
-● Remote access capability (via third-party add-on).</br>
-● Voice assistant integration (Google Assistant, Amazon Alexa via third-party add-ons).</br>
+● Remote access capability (via third-party add-on like Tailscale).</br>
+● Voice assistant integration (Google Assistant, Amazon Alexa via third-party add-ons like Node-RED).</br>
 ● Active community providing add-ons, documentation etc.
 ## Documentation
 ● [Open API documentation](https://ewelink.cc/ewelink-cube/introduce-open-api/) - Examples, detailed codes.</br>
