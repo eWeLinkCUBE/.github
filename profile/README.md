@@ -1,5 +1,5 @@
 ## The heart of your local smart home
-A home automation platform that integrates with various smart home devices and platforms. It allows you to monitor and control connected devices from a single platform and automate routines for home control and convenience.
+A home automation platform that integrates with various smart home devices, services and platforms. It allows you to monitor and control connected devices & services from a single platform and automate routines for home control and convenience.
 ## Overview
 ● Software running on hardware like SONOFF iHost. </br>
 ● Supports over 100 devices and platforms including Zigbee, WiFi, Matter.</br>
