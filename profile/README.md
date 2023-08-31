@@ -10,6 +10,6 @@ A home automation platform that integrates with various smart home devices, serv
 ● Active community providing add-ons, documentation etc.
 ## Documentation
 ● [Open API](https://ewelink.cc/ewelink-cube/introduce-open-api/) - Examples, detailed codes.</br>
-● [Developer community](https://forum.ewelink.cc/c/ewelink-cube-developer/24) - Discussions, troubleshooting, announcements.</br>
+● [Developer community](https://forum.ewelink.cc/c/ewelink-cube-developer/23) - Discussions, troubleshooting, announcements.</br>
 ● [Blog](https://ewelink.cc/blog/) - News, updates, tutorials.</br>
 #### Get started with eWeLink CUBE today and take control of your smart home!
